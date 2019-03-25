@@ -1,6 +1,6 @@
 //Java implementation of non-optimised bubbleSort
 //average case and worst case: quadratic
-//best case: n
+//best case: n, better than most efficient sorting algorithms
 
 
 import java.util.Arrays;
